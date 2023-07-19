@@ -44,7 +44,7 @@ We use “steghide” command to hide any file within a image..
 
 **To extract that file we can use:**
 
-`steghide –extract -sf image_name`
+`steghide extract -sf image_name`
 
 **To hide some message in an audio:**
 
