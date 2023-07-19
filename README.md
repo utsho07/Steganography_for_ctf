@@ -26,6 +26,8 @@ Steganography is a process that is use for hiding information inside of image,vi
 
 `Openstego`
 
+`outguess`
+
 **To hide a file in an image:**
 
 To make a file we can use nano commad:
@@ -83,6 +85,13 @@ command:
 
            `zsteg image.png`
 
+
+**outguess:**
+
+Outguess is a another tool to extract the hidden message from a image [file.](http://file.To) To use this tool we need to install it  and we can use it by using below command:
+
+      `outguess -r pic.jpg result_file_name`
+      
 **stegoveritas**
 
 stegoveritas is a very fantastic tool to work with.It extract all the file of a
