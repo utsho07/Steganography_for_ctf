@@ -2,7 +2,7 @@
 
 # Staganography
 
-Steganography is process that is use for hiding information inside of image,video or any other digital object..
+Steganography is a process that is use for hiding information inside of image,video or any other digital object..
 
 **Tools:**
 
